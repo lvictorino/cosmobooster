@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    enable-background="new"
-   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_time.png"
+   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_person.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
    sodipodi:docname="motivation.svg">
@@ -1109,6 +1109,106 @@
          in2="result91"
          id="feComposite3564" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3323"
+       x1="574.56262"
+       y1="196.56142"
+       x2="1571.6344"
+       y2="43.825264"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3325"
+       x1="574.56262"
+       y1="196.56142"
+       x2="1571.6344"
+       y2="43.825264"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3327"
+       x1="574.56262"
+       y1="196.56142"
+       x2="1571.6344"
+       y2="43.825264"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3329"
+       x1="574.56262"
+       y1="196.56142"
+       x2="1571.6344"
+       y2="43.825264"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3331">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3333" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3335" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3337">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3339" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3341" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3343">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3345" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3347" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3349">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3351" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3353" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1118,10 +1218,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40862287"
-     inkscape:cx="1044.9356"
+     inkscape:cx="752.4899"
      inkscape:cy="448.47839"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer15"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1291,6 +1391,61 @@
          x="260.00006"
          y="960.95837"
          style="fill:url(#linearGradient3542);fill-opacity:1">WASTED</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="PERSON"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:298.69110107px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3329);fill-opacity:1;stroke:none;filter:url(#filter3349);font-family:Impact;-inkscape-font-specification:Impact"
+       x="258.45917"
+       y="266.99554"
+       id="text3265"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3267"
+         x="258.45917"
+         y="266.99554"
+         style="fill:url(#linearGradient3329);fill-opacity:1">YOU'RE WAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:203.98406982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3325);fill-opacity:1;stroke:none;filter:url(#filter3337);font-family:Impact;-inkscape-font-specification:Impact"
+       x="256.35214"
+       y="885.39423"
+       id="text3269"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3271"
+         x="256.35214"
+         y="885.39423"
+         style="fill:url(#linearGradient3325);fill-opacity:1">THAN THE PERSON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:165.57679749px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3323);fill-opacity:1;stroke:none;filter:url(#filter3331);font-family:Impact;-inkscape-font-specification:Impact"
+       x="257.42633"
+       y="1051.3379"
+       id="text3273"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3275"
+         x="257.42633"
+         y="1051.3379"
+         style="fill:url(#linearGradient3323);fill-opacity:1">THEY WANT YOU TO BE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:506.21469116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3327);fill-opacity:1;stroke:none;filter:url(#filter3343);font-family:Impact;-inkscape-font-specification:Impact"
+       x="236.79362"
+       y="693.10913"
+       id="text3277"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3279"
+         x="236.79362"
+         y="693.10913"
+         style="fill:url(#linearGradient3327);fill-opacity:1">BETTER</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
