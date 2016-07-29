@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    enable-background="new"
-   inkscape:export-filename="C:\Users\larles\Desktop\Motivational\12.png"
+   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_time.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
    sodipodi:docname="motivation.svg">
@@ -1034,6 +1034,81 @@
          in2="result91"
          id="feComposite4669" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3989"
+       id="linearGradient3542"
+       x1="1426.7434"
+       y1="57.051865"
+       x2="447.16983"
+       y2="874.16809"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3989"
+       id="linearGradient3544"
+       x1="1235.5443"
+       y1="65.880577"
+       x2="387.2442"
+       y2="1009.4446"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3989"
+       id="linearGradient3546"
+       x1="1426.7434"
+       y1="57.051865"
+       x2="447.16983"
+       y2="874.16809"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3548">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3550" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3552" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3554">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3556" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3558" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3560">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3562" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3564" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1042,11 +1117,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57788"
-     inkscape:cx="604.53347"
-     inkscape:cy="538.8548"
+     inkscape:zoom="0.40862287"
+     inkscape:cx="1044.9356"
+     inkscape:cy="448.47839"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer14"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1082,7 +1157,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1172,6 +1247,50 @@
          x="243.04254"
          y="820.45874"
          style="fill:url(#linearGradient4655);fill-opacity:1">EXCUSES</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="WISH"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:171.05357361px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3546);fill-opacity:1;stroke:none;filter:url(#filter3560);font-family:Impact;-inkscape-font-specification:Impact"
+       x="258.99774"
+       y="249.91685"
+       id="text3506"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3508"
+         x="258.99774"
+         y="249.91685"
+         style="fill:url(#linearGradient3546);fill-opacity:1">TIME SPENT WISHING</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:432.1204834px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3544);fill-opacity:1;stroke:none;filter:url(#filter3554);font-family:Impact;-inkscape-font-specification:Impact"
+       x="207.43349"
+       y="672.19708"
+       id="text3514"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1547489,0.86598914)"><tspan
+         sodipodi:role="line"
+         id="tspan3516"
+         x="207.43349"
+         y="672.19708"
+         style="fill:url(#linearGradient3544);fill-opacity:1">IS TIME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:432.91558838px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3542);fill-opacity:1;stroke:none;filter:url(#filter3548);font-family:Impact;-inkscape-font-specification:Impact"
+       x="260.00006"
+       y="960.95837"
+       id="text3518"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3520"
+         x="260.00006"
+         y="960.95837"
+         style="fill:url(#linearGradient3542);fill-opacity:1">WASTED</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
