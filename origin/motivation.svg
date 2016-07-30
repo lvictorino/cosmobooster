@@ -16,12 +16,23 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    enable-background="new"
-   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_person.png"
+   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_confidence.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
    sodipodi:docname="motivation.svg">
   <defs
      id="defs2987">
+    <linearGradient
+       id="linearGradient3324">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3326" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3328" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4480">
       <stop
@@ -1209,6 +1220,165 @@
          in2="result91"
          id="feComposite3353" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3330"
+       x1="275.81247"
+       y1="129.91016"
+       x2="750.26678"
+       y2="805.49982"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3332"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3334"
+       x1="236.66055"
+       y1="151.40182"
+       x2="643.7655"
+       y2="938.75763"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,15.380679)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3336"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3338">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3340" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3342" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3344">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3346" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3348" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3350">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3352" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3354" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3356">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3358" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3360" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3372"
+       gradientUnits="userSpaceOnUse"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881"
+       gradientTransform="translate(0,-0.88002995)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3374"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,14.413861)"
+       x1="236.66055"
+       y1="151.40182"
+       x2="643.7655"
+       y2="938.75763" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3376"
+       gradientUnits="userSpaceOnUse"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881"
+       gradientTransform="translate(0,-0.88002995)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3378"
+       gradientUnits="userSpaceOnUse"
+       x1="275.81247"
+       y1="129.91016"
+       x2="750.26678"
+       y2="805.49982"
+       gradientTransform="translate(0,-0.82957738)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3384"
+       gradientUnits="userSpaceOnUse"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient3390"
+       gradientUnits="userSpaceOnUse"
+       x1="260"
+       y1="137.81093"
+       x2="707.2536"
+       y2="854.4881" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1218,10 +1388,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40862287"
-     inkscape:cx="752.4899"
-     inkscape:cy="448.47839"
+     inkscape:cx="579.51113"
+     inkscape:cy="546.36816"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer16"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1230,8 +1400,8 @@
      inkscape:snap-grids="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="266"
-     inkscape:window-y="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -1446,6 +1616,63 @@
          x="236.79362"
          y="693.10913"
          style="fill:url(#linearGradient3327);fill-opacity:1">BETTER</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="CONFIDENCE"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:134.38320923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3390);fill-opacity:1;stroke:none;filter:url(#filter3356);font-family:Impact;-inkscape-font-specification:Impact"
+       x="256.78479"
+       y="240.883"
+       id="text3290"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3292"
+         x="256.78479"
+         y="240.883"
+         style="fill:url(#linearGradient3390);fill-opacity:1">STUPID PEOPLE ARE FULL OF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:268.09603882px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3374);fill-opacity:1;stroke:none;filter:url(#filter3350);font-family:Impact;-inkscape-font-specification:Impact"
+       x="226.27017"
+       y="524.35315"
+       id="text3294"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0986199,0,0,0.91023293,0,-13.11997)"><tspan
+         sodipodi:role="line"
+         id="tspan3296"
+         x="226.27017"
+         y="524.35315"
+         style="fill:url(#linearGradient3374);fill-opacity:1">CONFIDENCE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:225.60389709px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3384);fill-opacity:1;stroke:none;filter:url(#filter3344);font-family:Impact;-inkscape-font-specification:Impact"
+       x="261.31741"
+       y="692.70544"
+       id="text3298"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3300"
+         x="261.31741"
+         y="692.70544"
+         style="fill:url(#linearGradient3384);fill-opacity:1">YOU ARE FULL OF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:251.45896912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3378);fill-opacity:1;stroke:none;filter:url(#filter3338);font-family:Impact;-inkscape-font-specification:Impact"
+       x="276.39078"
+       y="876.71381"
+       id="text3302"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.94266949,0,0,1.0608172,0,0.88002995)"><tspan
+         sodipodi:role="line"
+         id="tspan3304"
+         x="276.39078"
+         y="876.71381"
+         style="fill:url(#linearGradient3378);fill-opacity:1">AWESOMENESS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
