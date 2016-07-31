@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    enable-background="new"
-   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_confidence.png"
+   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_reacting.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
    sodipodi:docname="motivation.svg">
@@ -1379,6 +1379,81 @@
        y1="137.81093"
        x2="707.2536"
        y2="854.4881" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4111"
+       id="linearGradient3702"
+       x1="937.6394"
+       y1="252.83865"
+       x2="937.6394"
+       y2="747.78528"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4111"
+       id="linearGradient3704"
+       x1="937.6394"
+       y1="252.83865"
+       x2="937.6394"
+       y2="747.78528"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4111"
+       id="linearGradient3706"
+       x1="937.6394"
+       y1="252.83865"
+       x2="937.6394"
+       y2="747.78528"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3708">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3710" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3712" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3714">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3716" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3718" />
+    </filter>
+    <filter
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB"
+       id="filter3720">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result91"
+         id="feGaussianBlur3722" />
+      <feComposite
+         in="SourceGraphic"
+         operator="over"
+         in2="result91"
+         id="feComposite3724" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1387,11 +1462,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40862287"
-     inkscape:cx="579.51113"
-     inkscape:cy="546.36816"
+     inkscape:zoom="0.57788"
+     inkscape:cx="711.15323"
+     inkscape:cy="507.47667"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer17"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1400,8 +1475,8 @@
      inkscape:snap-grids="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="266"
+     inkscape:window-y="1028"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -1621,7 +1696,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="CONFIDENCE"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -1673,6 +1748,60 @@
          x="276.39078"
          y="876.71381"
          style="fill:url(#linearGradient3378);fill-opacity:1">AWESOMENESS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="REACT"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact"
+       x="364.6394"
+       y="453.50546"
+       id="text3670"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3672"
+         x="364.6394"
+         y="453.50546" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:186.52095032px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3706);fill-opacity:1;stroke:none;filter:url(#filter3720);font-family:Impact;-inkscape-font-specification:Impact"
+       x="252.34973"
+       y="692.36432"
+       id="text3662"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3664"
+         x="252.34973"
+         y="692.36432"
+         style="fill:url(#linearGradient3706);fill-opacity:1">BECAUSE REACTING </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:388.08880615px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3704);fill-opacity:1;stroke:none;filter:url(#filter3714);font-family:Impact;-inkscape-font-specification:Impact"
+       x="262.27396"
+       y="521.30212"
+       id="text3666"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3668"
+         x="262.27396"
+         y="521.30212"
+         style="fill:url(#linearGradient3704);fill-opacity:1">ACT NOW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:195.64653015px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3702);fill-opacity:1;stroke:none;filter:url(#filter3708);font-family:Impact;-inkscape-font-specification:Impact"
+       x="251.97543"
+       y="868.6875"
+       id="text3678"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3680"
+         x="251.97543"
+         y="868.6875"
+         style="fill:url(#linearGradient3702);fill-opacity:1">IS FOR CRY BABIES</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
