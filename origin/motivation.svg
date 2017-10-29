@@ -14,9 +14,9 @@
    height="1080px"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    enable-background="new"
-   inkscape:export-filename="C:\Users\larles\Desktop\WORK\MotivationalWP\motivation_reacting.png"
+   inkscape:export-filename="C:\Users\lvict\Documents\WORK\MotivationalWP\motivation_nail.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
    sodipodi:docname="motivation.svg">
@@ -1454,6 +1454,33 @@
          in2="result91"
          id="feComposite3724" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4070"
+       id="linearGradient5059"
+       gradientUnits="userSpaceOnUse"
+       x1="888.22089"
+       y1="181.88966"
+       x2="1660"
+       y2="953.67621" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4070"
+       id="linearGradient5061"
+       gradientUnits="userSpaceOnUse"
+       x1="657.61237"
+       y1="245.6739"
+       x2="1229.0148"
+       y2="1288.1071" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4070"
+       id="linearGradient5063"
+       gradientUnits="userSpaceOnUse"
+       x1="888.22089"
+       y1="181.88966"
+       x2="1660"
+       y2="953.67621" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1462,21 +1489,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57788"
-     inkscape:cx="711.15323"
+     inkscape:zoom="0.40862287"
+     inkscape:cx="1029.3929"
      inkscape:cy="507.47667"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="g5045"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="266"
-     inkscape:window-y="1028"
+     inkscape:window-width="1368"
+     inkscape:window-height="859"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -1484,7 +1511,12 @@
      inkscape:object-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true">
+     inkscape:snap-center="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="false">
     <sodipodi:guide
        orientation="1,0"
        position="260,0"
@@ -1502,7 +1534,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2017,7 +2049,7 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:209.4069519px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4233);fill-opacity:1;stroke:none;filter:url(#filter4247);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:209.4069519px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4233);fill-opacity:1;stroke:none;filter:url(#filter4247)"
        x="251.41109"
        y="313.08115"
        id="text4191"
@@ -2029,7 +2061,7 @@
          style="fill:url(#linearGradient4233);fill-opacity:1">DO NOT BUY THAT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:440.59564209px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4231);fill-opacity:1;stroke:none;filter:url(#filter4241);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:440.59564209px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4231);fill-opacity:1;stroke:none;filter:url(#filter4241)"
        x="189.91469"
        y="834.37738"
        id="text4195"
@@ -2042,7 +2074,7 @@
          style="fill:url(#linearGradient4231);fill-opacity:1">THING</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:355.11517334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4229);fill-opacity:1;stroke:none;filter:url(#filter4235);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:355.11517334px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4229);fill-opacity:1;stroke:none;filter:url(#filter4235)"
        x="245.43477"
        y="930.04181"
        id="text4199"
@@ -2054,6 +2086,51 @@
          style="fill:url(#linearGradient4229);fill-opacity:1">BUILD ONE</tspan></text>
   </g>
   <g
+     style="display:inline"
+     inkscape:label="NAIL"
+     id="g5045"
+     inkscape:groupmode="layer">
+    <text
+       sodipodi:linespacing="125%"
+       id="text5047"
+       y="313.08115"
+       x="251.41109"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:209.4069519px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5059);fill-opacity:1;stroke:none;filter:url(#filter4247)"
+       xml:space="preserve"
+       transform="matrix(0.95411737,0,0,1,21.560115,-6.2179053)"><tspan
+         style="fill:url(#linearGradient5059);fill-opacity:1"
+         y="313.08115"
+         x="251.41109"
+         id="tspan5049"
+         sodipodi:role="line">YOU'RE NOT A NAIL</tspan></text>
+    <text
+       transform="matrix(0.66375315,0,0,0.52728434,133.81341,107.20181)"
+       sodipodi:linespacing="125%"
+       id="text5051"
+       y="834.37738"
+       x="189.91469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:440.59564209px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5061);fill-opacity:1;stroke:none;filter:url(#filter4241)"
+       xml:space="preserve"><tspan
+         style="fill:url(#linearGradient5061);fill-opacity:1"
+         y="834.37738"
+         x="189.91469"
+         id="tspan5053"
+         sodipodi:role="line">YOU ARE THE</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5055"
+       y="930.04181"
+       x="245.43477"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:355.11517334px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5063);fill-opacity:1;stroke:none;filter:url(#filter4235)"
+       xml:space="preserve"
+       transform="matrix(1.1490466,0,0,1.2593861,-26.529331,-221.9621)"><tspan
+         style="fill:url(#linearGradient5063);fill-opacity:1"
+         y="930.04181"
+         x="245.43477"
+         id="tspan5057"
+         sodipodi:role="line">HAMMER</tspan></text>
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="WORK"
@@ -2061,7 +2138,7 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:375.77981567px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4280);fill-opacity:1;stroke:none;filter:url(#filter4288);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:375.77981567px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4280);fill-opacity:1;stroke:none;filter:url(#filter4288)"
        x="246.78899"
        y="510.92941"
        id="text4254"
@@ -2073,7 +2150,7 @@
          style="fill:url(#linearGradient4280);fill-opacity:1">GET BACK</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:386.49475098px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4278);fill-opacity:1;stroke:none;filter:url(#filter4282);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:386.49475098px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4278);fill-opacity:1;stroke:none;filter:url(#filter4282)"
        x="258.57913"
        y="865.95691"
        id="text4258"
@@ -2123,7 +2200,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:468.67977905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4362);fill-opacity:1;stroke:none;filter:url(#filter4370);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:468.67977905px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4362);fill-opacity:1;stroke:none;filter:url(#filter4370)"
        x="197.72429"
        y="648.20135"
        id="text4336"
@@ -2136,7 +2213,7 @@
          style="fill:url(#linearGradient4362);fill-opacity:1">CTRL Z</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:277.17041016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4360);fill-opacity:1;stroke:none;filter:url(#filter4364);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:277.17041016px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4360);fill-opacity:1;stroke:none;filter:url(#filter4364)"
        x="300.19321"
        y="711.09528"
        id="text4340"
@@ -2156,7 +2233,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:363.08276367px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4411);fill-opacity:1;stroke:none;filter:url(#filter4419);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:363.08276367px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4411);fill-opacity:1;stroke:none;filter:url(#filter4419)"
        x="217.3887"
        y="547.59265"
        id="text4385"
@@ -2169,7 +2246,7 @@
          style="fill:url(#linearGradient4411);fill-opacity:1">YOU ARE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:478.91653442px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;filter:url(#filter4413);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:478.91653442px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;filter:url(#filter4413)"
        x="223.90416"
        y="920.03284"
        id="text4389"
@@ -2189,7 +2266,7 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:176.55172729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4492);fill-opacity:1;stroke:none;filter:url(#filter4512);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:176.55172729px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4492);fill-opacity:1;stroke:none;filter:url(#filter4512)"
        x="252.75862"
        y="274.09445"
        id="text4426"
@@ -2201,7 +2278,7 @@
          style="fill:url(#linearGradient4492);fill-opacity:1">IF YOU HAVE DREAMT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:168.71836853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4490);fill-opacity:1;stroke:none;filter:url(#filter4506);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.71836853px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4490);fill-opacity:1;stroke:none;filter:url(#filter4506)"
        x="254.06683"
        y="441.20526"
        id="text4430"
@@ -2213,7 +2290,7 @@
          style="fill:url(#linearGradient4490);fill-opacity:1">OF DOING SOMETHING</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:152.28910828px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4488);fill-opacity:1;stroke:none;filter:url(#filter4500);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:152.28910828px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4488);fill-opacity:1;stroke:none;filter:url(#filter4500)"
        x="259.95068"
        y="592.58441"
        id="text4434"
@@ -2225,7 +2302,7 @@
          style="fill:url(#linearGradient4488);fill-opacity:1">THEN YOU HAVE ALMOST</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:436.32128906px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4486);fill-opacity:1;stroke:none;filter:url(#filter4494);font-family:Impact;-inkscape-font-specification:Impact"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:436.32128906px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4486);fill-opacity:1;stroke:none;filter:url(#filter4494)"
        x="219.97458"
        y="1029.3934"
        id="text4438"
